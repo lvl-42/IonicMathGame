@@ -1,6 +1,6 @@
 # Ionic Angular Math Game Application
 
-This application is a quickdemo of the Ionic Framework and Angular.
+This application is a quick demo of the Ionic Framework and Angular.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-st
 
 ## App Preview
 
-TODO
+![gif demo](https://level-42.com/wp-content/uploads/2020/11/ionicapp.gif)
 
 ## Deploying
 
